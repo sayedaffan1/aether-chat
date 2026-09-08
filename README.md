@@ -1,3 +1,9 @@
+﻿![Status](https://img.shields.io/badge/status-work--in--progress-yellow)
+
+> This project is actively under development. Features may be incomplete or change without notice.
+![Status](https://img.shields.io/badge/status-work--in--progress-yellow)
+
+> This project is actively under development. Features may be incomplete or change without notice.
 # Aether
 
 Aether is a local AI studio: chat, write code, generate images, and build full websites with a live preview.
@@ -29,9 +35,11 @@ Compatible hosts work too (Groq, OpenRouter) if you point `OPENAI_BASE_URL` at t
 
 ## Modes
 
-- **Chat** — planning, explanations, product thinking
-- **Code** — implementations, reviews, debugging
-- **Website** — one complete HTML file + live iframe + download
-- **Image** — `/images/generations` (OpenAI-compatible)
+- **Chat** â€” planning, explanations, product thinking
+- **Code** â€” implementations, reviews, debugging
+- **Website** â€” one complete HTML file + live iframe + download
+- **Image** â€” `/images/generations` (OpenAI-compatible)
 
 Keep developing in this folder; push to GitHub as you go so the remote stays a side-by-side copy of the working tree.
+
+
