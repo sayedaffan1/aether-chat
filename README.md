@@ -43,3 +43,4 @@ Compatible hosts work too (Groq, OpenRouter) if you point `OPENAI_BASE_URL` at t
 Keep developing in this folder; push to GitHub as you go so the remote stays a side-by-side copy of the working tree.
 
 
+
